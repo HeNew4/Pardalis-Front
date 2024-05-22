@@ -18,21 +18,13 @@ export default function Home() {
           animate={{ rotate: 360, scale: 1 }}
           transition={{
             type: "spring",
-            stiffness: 260,
+            stiffness: 150,
             damping: 20
           }}>
           <Image src='logo.svg' alt='Logo Pardalis' width={300} height={300} />
         </motion.div>
 
-        <motion.div className="m-10 text-center grid place-content-center"
-          initial={{ scale: 0 }}
-          animate={{ scale: 1 }}
-          transition={{
-            type: "spring",
-            stiffness: 260,
-            damping: 20
-          }}
-        >
+        <div className="m-10 text-center grid place-content-center">
           <div>
 
             <h1 className="mb-4 text-3xl font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl">¡Bienvenido!</h1>
@@ -52,7 +44,7 @@ export default function Home() {
 
             <Link href='/register' className="text-4xl font-black text-primary">Regístrate</Link>
           </div>
-        </motion.div>
+        </div>
 
       </main>
 
