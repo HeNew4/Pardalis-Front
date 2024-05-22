@@ -42,13 +42,13 @@ export default function Home() {
           <motion.button className="focus:outline-none text-white bg-primary hover:bg-secundary focus:ring-4 focus:ring-secundary font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-primary m-3 w-9/12 mb-10" whileTap={{
             scale: 1.1,
             rotate: 5
-          }}>Inicia Sesion</motion.button>
+          }}>Inicia Sesión</motion.button>
 
           <br />
 
           <p className="mb-5 hover:underline">¿Ya tienes una cuenta?</p>
 
-          <Link href='/register' className="text-4xl font-black text-primary">Registrate</Link>
+          <Link href='/register' className="text-4xl font-black text-primary">Regístrate</Link>
 
         </motion.div>
 
