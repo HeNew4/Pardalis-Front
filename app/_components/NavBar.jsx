@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 
 import Image from "next/image";
+import logo from "../../public/logo.svg"
 import Link from "next/link";
 
 export default function NavBar() {
@@ -24,7 +25,7 @@ export default function NavBar() {
               damping: 20,
             }}
           >
-            <Image src="logo.svg" alt="Logo Pardalis" width={50} height={50} />
+            <Image src={logo} alt="Logo Pardalis" width={50} height={50} />
           </motion.span>
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
             Pardalis
