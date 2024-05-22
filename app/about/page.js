@@ -8,7 +8,7 @@ export default function Page() {
 
             <main className="grid grid-cols-2 flex-1 p-4">
                 <section className="grid place-content-center p-6 bg-background rounded-lg hover:bg-background dark:bg-background m-4">
-                    <h2 className="text-center text-4xl font-extrabold">¿Que es Pardalis?</h2>
+                    <h2 className="text-center text-4xl font-extrabold">¿Qué es Pardalis?</h2>
                     <p className="m-2 mt-5">
                         El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
                         como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
@@ -19,7 +19,7 @@ export default function Page() {
                 </section>
 
                 <section className="grid place-content-center p-6 bg-background rounded-lg hover:bg-background dark:bg-background m-4">
-                    <h2 className="text-center text-4xl font-extrabold">¿Porque elegir Pardalis?</h2>
+                    <h2 className="text-center text-4xl font-extrabold">¿Por qué elegir Pardalis?</h2>
                     <p className="m-2 mt-5">
                         La aplicación está diseñada con una interfaz amigable y atractiva, adaptada a las necesidades y preferencias
                         de los usuarios más jóvenes, con el objetivo de convertir el aprendizaje del inglés en una experiencia divertida
