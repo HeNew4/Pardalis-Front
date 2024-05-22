@@ -1,8 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-
-import NavBar from "./_components/NavBar";
+import NavBar from "./_components/SpNavBar";
 import Footer from "./_components/Footer";
 import Image from "next/image";
 import Link from "next/link";
@@ -20,7 +19,7 @@ export default function Home() {
             type: "spring",
             stiffness: 260,
             damping: 20
-          }} whileHover={{rotate:180}}>
+          }}>
           <Image src='logo.svg' alt='Logo Pardalis' width={300} height={300} />
         </motion.div>
 
@@ -45,7 +44,7 @@ export default function Home() {
 
           <br />
 
-          <p className="mb-5 hover:underline">¿Todavía no tienes cuenta?</p>
+          <p className="mb-5 hover:underline">¿Todavía no tienes una cuenta?</p>
 
           <Link href='/register' className="text-4xl font-black text-primary">Regístrate</Link>
 
