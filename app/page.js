@@ -35,20 +35,19 @@ export default function Home() {
         >
           <h1 className="mb-4 text-3xl font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl">¡Bienvenido!</h1>
 
-          <p className="hover:underline me-4 md:me-6">¿Ya tienes una cuenta?</p>
 
           <br />
 
           <motion.button className="focus:outline-none text-white bg-primary hover:bg-secundary focus:ring-4 focus:ring-secundary font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-primary m-3 w-9/12 mb-10" whileTap={{
             scale: 1.1,
             rotate: 5
-          }}>Inicia Sesion</motion.button>
+          }}>Inicia Sesión</motion.button>
 
           <br />
 
-          <p className="mb-5 hover:underline">¿Ya tienes una cuenta?</p>
+          <p className="mb-5 hover:underline">¿Todavía no tienes cuenta?</p>
 
-          <Link href='/register' className="text-4xl font-black text-primary">Registrate</Link>
+          <Link href='/register' className="text-4xl font-black text-primary">Regístrate</Link>
 
         </motion.div>
 
