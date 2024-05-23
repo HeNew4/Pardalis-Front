@@ -18,6 +18,13 @@ export default function Footer() {
           </li>
         </ul>
       </div>
+      <div className=''>
+            <a href="https://www.instagram.com/popeyedbisaac/">@popeyedbisaac</a>
+            <a href="https://www.instagram.com/hntmclv/">@hntmclv</a>
+            <a href="https://www.instagram.com/alonso_vazsil/">@alonso_vazsil</a>
+            <a href="https://www.instagram.com/oscxr_vlxxm/">@oscxr_vlxxm</a>
+            <a href="https://www.instagram.com/antonio16rms/">@antonio16rms</a>
+      </div>
     </footer>
 
   )
