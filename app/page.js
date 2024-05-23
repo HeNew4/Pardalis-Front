@@ -19,7 +19,7 @@ export default function Home() {
             type: "spring",
             stiffness: 260,
             damping: 20
-          }}whileTap={{rotate: 720, scale:3 }}
+          }}whileTap={{rotate: 710, scale:3 }}
           >
           <Image src='logo.svg' alt='Logo Pardalis' width={300} height={300} />
         </motion.div>
