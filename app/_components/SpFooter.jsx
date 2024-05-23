@@ -11,12 +11,16 @@ export default function Footer() {
         </span>
         <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
           <li>
-            <Link href="/about" className="hover:underline me-4 md:me-6">Sobre Nosotros</Link>
-          </li>
-          <li>
             <Link href="#" className="hover:underline me-4 md:me-6">Términos y condiciones</Link>
           </li>
         </ul>
+      </div>
+      <div className=''>
+            <a href="https://www.instagram.com/popeyedbisaac/">@popeyedbisaac</a>
+            <a href="https://www.instagram.com/hntmclv/">@hntmclv</a>
+            <a href="https://www.instagram.com/alonso_vazsil/">@alonso_vazsil</a>
+            <a href="https://www.instagram.com/oscxr_vlxxm/">@oscxr_vlxxm</a>
+            <a href="https://www.instagram.com/antonio16rms/">@antonio16rms</a>
       </div>
     </footer>
 
