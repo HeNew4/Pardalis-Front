@@ -7,6 +7,7 @@ body {
   color: #212121;
 }
 
+
 .fondo {
   background-image: url('/img/Fondos/inicio.svg');
   background-size: cover; /* O 'contain' dependiendo de cómo quieras que se ajuste */
