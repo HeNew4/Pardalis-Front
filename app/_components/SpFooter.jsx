@@ -16,11 +16,11 @@ export default function Footer() {
         </ul>
       </div>
       <div className=''>
-            <a href="https://www.instagram.com/popeyedbisaac/">@popeyedbisaac</a>
-            <a href="https://www.instagram.com/hntmclv/">@hntmclv</a>
-            <a href="https://www.instagram.com/alonso_vazsil/">@alonso_vazsil</a>
-            <a href="https://www.instagram.com/oscxr_vlxxm/">@oscxr_vlxxm</a>
-            <a href="https://www.instagram.com/antonio16rms/">@antonio16rms</a>
+            <Link href="https://www.instagram.com/popeyedbisaac/">@popeyedbisaac</Link>
+            <Link href="https://www.instagram.com/hntmclv/">@hntmclv</Link>
+            <Link href="https://www.instagram.com/alonso_vazsil/">@alonso_vazsil</Link>
+            <Link href="https://www.instagram.com/oscxr_vlxxm/">@oscxr_vlxxm</Link>
+            <Link href="https://www.instagram.com/antonio16rms/">@antonio16rms</Link>
       </div>
     </footer>
 
