@@ -1,4 +1,4 @@
-import Footer from "../_components/Footer";
+import Footer from "../_components/SpFooter";
 import NavBar from "../_components/NavBar";
 
 export default function Page() {
