@@ -1,6 +1,6 @@
 'use client'
 
-import { motion } from 'framer-motion'
+import { animate, motion } from 'framer-motion'
 import NavBar from "./_components/SpNavBar";
 import Footer from "./_components/Footer";
 import Image from "next/image";
@@ -19,7 +19,8 @@ export default function Home() {
             type: "spring",
             stiffness: 260,
             damping: 20
-          }}>
+          }}whileTap={{rotate: 720, scale:3 }}
+          >
           <Image src='logo.svg' alt='Logo Pardalis' width={300} height={300} />
         </motion.div>
 
