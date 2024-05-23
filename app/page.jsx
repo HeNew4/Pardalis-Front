@@ -13,17 +13,18 @@ export default function Home() {
       <NavBar />
 
       <main className="grid grid-cols-2 flex-1 p-4">
-
-        <motion.div className="grid place-content-center" initial={{ scale: 0 }}
+      <div className="grid place-content-center">
+        <motion.div initial={{ scale: 0 }}
           animate={{ rotate: 360, scale: 1 }}
           transition={{
             type: "spring",
             stiffness: 150,
             damping: 20
-          }}whileTap={{rotate: 720, scale:2.5}}
+          }}whileTap={{rotate: 720, scale:2}}
           >
-          <Image src='logo.svg' alt='Logo Pardalis' width={300} height={300} />
+          <Image src='logo.svg' alt='Logo Pardalis' width={450} height={450} />
         </motion.div>
+      </div>
 
         <div className="m-10 text-center grid place-content-center">
           <div>
