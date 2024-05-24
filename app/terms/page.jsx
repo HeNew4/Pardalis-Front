@@ -18,6 +18,199 @@ export default function Page() {
                         específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
                         aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
                         natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.
+                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.                        El equipo de desarrollo, denominado Ponchoides, presenta la propuesta de la aplicación web Pardalis
+                        como una solución para apoyar de manera integral a los estudiantes de primaria baja, con un enfoque
+                        específico en aquellos que se encuentran en el rango de edades de 6 a 9 años, durante su proceso de
+                        aprendizaje del idioma inglés. Pardalis se distingue por ofrecer una experiencia de aprendizaje única y
+                        natural, donde los niños pueden desarrollar sus habilidades lingüísticas de manera lúdica y efectiva.
                     </p>
                 </section>
             </main>
