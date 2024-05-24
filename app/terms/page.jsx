@@ -3,7 +3,7 @@ import NavBar from "@/app/_components/NavBar";
 
 export default function Page() {
     return (
-        <div className="min-h-screen flex flex-col fondo">
+        <div className="min-h-screen flex flex-col fondo-especial">
             <NavBar />
 
             <main className="grid center flex-1 p-4">
@@ -219,6 +219,8 @@ export default function Page() {
                     </p>
                 </section>
             </main>
+
+            
 
             <Footer />
         </div>
