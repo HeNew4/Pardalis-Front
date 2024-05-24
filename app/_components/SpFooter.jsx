@@ -16,11 +16,10 @@ export default function Footer() {
         </ul>
       </div>
       <div className='w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between'>
-            <Link href="https://www.instagram.com/popeyedbisaac/" className='hover:underline'>@popeyedbisaac</Link>
-            <Link href="https://www.instagram.com/hntmclv/" className='hover:underline'>@hntmclv</Link>
-            <Link href="https://www.instagram.com/alonso_vazsil/" className='hover:underline'>@alonso_vazsil</Link>
-            <Link href="https://www.instagram.com/oscxr_vlxxm/" className='hover:underline'>@oscxr_vlxxm</Link>
-            <Link href="https://www.instagram.com/antonio16rms/" className='hover:underline'>@antonio16rms</Link>
+            <Link href="https://www.instagram.com/popeyedbisaac/" className='hover:underline'>contacto@pardalis.com</Link>
+            <Link href="https://www.instagram.com/hntmclv/" className='hover:underline'>@Pardalis</Link>
+            <Link href="https://www.instagram.com/alonso_vazsil/" className='hover:underline'>@Pardalis</Link>
+            <Link href="https://www.instagram.com/oscxr_vlxxm/" className='hover:underline'>@Pardalis</Link>
       </div>
     </footer>
 
