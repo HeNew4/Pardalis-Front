@@ -1,15 +1,12 @@
 'use client'
 
 import Image from "next/image";
-import NavBar from "../_components/NavBar";
 import { motion } from 'framer-motion';
 import Link from "next/link";
 
 export default function Custom404() {
   return (
     <div className="h-svh error text-center grid place-content-center">
-      <NavBar />
-
       <main className="grid place-content-center ">
         <Image
           src="img/Logo/Error.svg"
