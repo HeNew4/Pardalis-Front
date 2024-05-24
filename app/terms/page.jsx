@@ -1,5 +1,5 @@
-import Footer from "../_components/Footer";
-import NavBar from "../_components/NavBar";
+import Footer from "@/app/_components/Footer";
+import NavBar from "@/app/_components/NavBar";
 
 export default function Page() {
     return (
