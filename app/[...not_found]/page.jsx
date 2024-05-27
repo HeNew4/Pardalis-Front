@@ -8,11 +8,12 @@ export default function Custom404() {
   return (
     <div className="h-svh error text-center grid place-content-center">
       <main className="grid place-content-center ">
+        
         <Image
           src="img/Logo/Error.svg"
           alt="Logo Error"
-          width={999}
-          height={999}
+          width={1000}
+          height={1000}
         />
 
         <br />
