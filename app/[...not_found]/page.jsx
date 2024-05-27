@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { motion } from 'framer-motion';
+import logo from "../../public/img/Logo/Error.svg";
 import Link from "next/link";
 
 export default function Custom404() {
@@ -9,7 +10,7 @@ export default function Custom404() {
     <div className="h-svh error text-center grid place-content-center">
       <main className="grid place-content-center ">
         <Image
-          src="img/Logo/Error.svg"
+          src={logo}
           alt="Logo Error"
           width={999}
           height={999}
