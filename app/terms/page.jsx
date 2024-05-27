@@ -35,7 +35,7 @@ export default function Page() {
                     <p>
                     Para ayudar a explicar las cosas de la manera más clara posible en estos Términos y Condiciones, cada vez que se hace referencia a cualquiera de estos términos, se definen estrictamente como:
                     </p>
-                    <ul className="m-3 mt-2">
+                    <ul className="m-3 mt-2 ml-10 list-disc">
                         <li>
                             <strong>Cookie:</strong> Pequeña cantidad de datos generados por un sitio web y guardados por su navegador web. Se utiliza para identificar su navegador, proporcionar análisis, recordar información sobre
                              usted, como su preferencia de idioma o información de inicio de sesión.
@@ -73,7 +73,7 @@ export default function Page() {
                     <p className="m-3 mt-2">
                         Usted acepta no hacerlo y no permitirá que otros:
                     </p>
-                    <ol className="m-3 mt-2">
+                    <ul className="m-3 mt-2 ml-10 list-disc">
                         <li>
                             Licenciar, vender, alquilar, arrendar, asignar, distribuir, transmitir, alojar, subcontratar, divulgar o explotar comercialmente la plataforma o poner la plataforma a disposición de terceros.
                         </li>
@@ -83,7 +83,7 @@ export default function Page() {
                         <li>
                             Eliminar, alterar u ocultar cualquier aviso de propiedad (incluido cualquier aviso de derechos de autor o marca registrada) de sus afiliados, socios, proveedores o licenciatarios de la plataforma.
                         </li>
-                    </ol>
+                    </ul>
 
                     <br />
                     <br />
