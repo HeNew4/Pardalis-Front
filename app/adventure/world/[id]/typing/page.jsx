@@ -1,8 +1,8 @@
 const Page = ({ params }) => {
   return (
-  <div>
-    <h1>Hola Mundo</h1>
-    <p>{params.id}</p>
+  <div className="h-svh fondo-especial text-center grid place-content-center">
+    <h1>Tecleado</h1>
+    <p>Nivel con el ID: {params.id}</p>
   </div>
   );
 }
