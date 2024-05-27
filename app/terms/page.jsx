@@ -184,7 +184,9 @@ export default function Page() {
 
                     <h2 className=" text-4xl font-extrabold m-2">Duración y Terminación</h2>
                     <p className="m-3 mt-2">
-                        
+                        Este Acuerdo permanecerá en vigor hasta que usted o Pardalis lo rescindan. Pardalis puede, a su entera discreción, en cualquier momento y por cualquier motivo o sin él, 
+                        suspender o rescindir este Acuerdo con o sin previo aviso. Este Acuerdo terminará inmediatamente, sin previo aviso de Pardalis, en caso de que no cumpla con alguna de las disposiciones de este Acuerdo. 
+                        Tambén puede rescindir este Acuerdo eliminando su cuenta de la plataforma
                     </p>
                 </section>
             </main>

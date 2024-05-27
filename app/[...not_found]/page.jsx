@@ -11,8 +11,8 @@ export default function Custom404() {
         <Image
           src="img/Logo/Error.svg"
           alt="Logo Error"
-          width={1000}
-          height={1000}
+          width={999}
+          height={999}
         />
 
         <br />
