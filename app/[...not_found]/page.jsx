@@ -10,13 +10,21 @@ export default function Custom404() {
     <div className="h-svh error text-center grid place-content-center">
       <main className="grid place-content-center ">
         
-        <Image
-          src={logo}
-          alt="Logo Error"
-          width={1000}
-          height={1000}
-        />
-
+        <motion.div
+        initial={{ scale: 0 }}
+        animate={{ rotate: 720, scale: 1 }}
+        transition={{
+          type: "spring",
+          stiffness: 150,
+          damping: 20
+        }}>
+          <Image
+            src={logo}
+            alt="Logo Error"
+            width={1000}
+            height={1000}
+            />
+          </motion.div>
         <br />
 
         <p className="text-5xl font-bold text-black m-5">¡Vaya! algo salió mal.</p>
