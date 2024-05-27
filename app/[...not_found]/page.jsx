@@ -16,7 +16,7 @@ export default function Custom404() {
         />
 
         <br />
-
+        
         <p className="text-5xl font-bold text-black m-5">¡Vaya! algo salió mal.</p>
         <p className="mb-20">Por favor, intenta regresar al inicio.</p>
         <Link href='/'>
