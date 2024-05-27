@@ -11,6 +11,8 @@ export default function Page() {
                     <h2 className=" text-4xl font-extrabold ml-2">Términos y Condiciones</h2>
                     <p className="ml-3">Actualizado el 2024-05-23</p>
 
+                    <br />
+
                     <h2 className=" text-4xl font-extrabold m-2">Términos generales</h2>
                     <p className="m-3 mt-2">
                     Al acceder y realizar un pedido con Pardalis, usted confirma que està de acuerdo y sujeto a los términos de servicio contenidos en los Términos y condiciones que se describen a continuación. Estos términos se aplican a todo el sitio web y a cualquier correo electrónico u otro tipo de comunicación entre usted y Pardalis.
@@ -144,6 +146,45 @@ export default function Page() {
                         exclusiva de Pardalis, sin previo aviso. Puede dejar de utilizar el Servicio en cualquier momento. No es necesario que informe específicamente a Pardalis cuando deje de usar el Servicio. Usted reconoce 
                         y acepta que si Pardalis deshabilita el acceso a su cuenta, es posible que no pueda acceder al Servicio, los detalles de su cuenta o cualquier archivo u otro material contenido en su cuenta. Si decidimos 
                         cambiar nuestros Términos y condiciones, publicaremos esos cambios en esta página y / o actualizaremos la fecha de modificación de los Términos y condiciones a continuación.
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Modificaciones a nuestra plataforma</h2>
+                    <p className="m-3 mt-2">
+                        Pardalis se reserva el derecho de modificar, suspender o interrumpir, temporal o permanentemente, la plataforma o cualquier servicio al que se conecte, con o sin previo aviso y sin resposabilidad ante usted.
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Actualizaciones a nuestra plataforma</h2>
+                    <p className="m-3 mt-2">
+                        Pardalis puede, de vez en cuando, proporcionar mejoras a las características / funcionalidad de la plataforma, que pueden incluir parches, correción de errores, actualizaciones, mejoras y otras modificaciones
+                         ("Actualizaciones"). Las actualizaciones pueden modificar o eliminar características y / o funcionalidades de la plataforma. Usted acepta que Pardalis no tiene la obligación de (i) proporcionar Actualizaciones, 
+                         o (ii) continuar proporcionándole o habilitando características y / o funcionalidades particualres de la plataforma. Además, acepta que todas las Actualizaciones (i) se considerarán una parte integral de la 
+                         plataforma y (ii) estarán sujetas a los términos y condiciones de este Acuerdo.
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Servicios de Terceros</h2>
+                    <p className="m-3 mt-2">
+                        Podemos mostrar, incluir o poner a disposición contenido de terceros (incluidos datos, información, aplicaciones y otros servicios productos) o proporcionar enlaces a sitios web o servicios de terceros 
+                        ("Servicios de terceros."). Usted reconoce y acepta que Pardalis no será responsable de ningún Servicio de terceros, incluida su precisión, integridad, puntualidad, validez, cumplimiento de los derechos
+                         de autos, legalidad, decencia, calidad o cualquier otro aspecto de los mismos. Pardalis no asume ni tendrá ninguna obligación o responsabilidad ante usted o cualquier otra persona o entidad por los 
+                         Servicios de terceros. Los Servicios de terceros y los enlaces a los mismos se brindan únicamente para su conveniencia y usted accede a ellos y los usa completamente bajo su propio riesgo y sujeto a 
+                         los términos y condiciones de dichos terceros.
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Duración y Terminación</h2>
+                    <p className="m-3 mt-2">
+                        
                     </p>
                 </section>
             </main>
