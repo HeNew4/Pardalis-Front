@@ -23,8 +23,16 @@ body {
   background: rgb(255, 255, 255);
   background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 238, 157, 1) 50%, rgba(255, 225, 78, 1) 100%);
 }
+
 .fondo-especial2 {
   background: rgba(0, 0, 0, 0.41);
+}
+
+.cristal {
+  background: rgba(255, 255, 255, .3);
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  border: 1.5px solid rgba(209, 213, 219, 0.3);
 }
 
 .config {
