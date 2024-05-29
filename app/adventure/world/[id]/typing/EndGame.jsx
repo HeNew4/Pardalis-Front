@@ -7,7 +7,7 @@ const EndGame = ({ score, onGame }) => {
             <div className="result">
                 <div>
                     <div className="title">
-                        Correct answer
+                        Respuestas Correctas
                     </div>
                     <div className="number">
                         {score.right}
@@ -15,7 +15,7 @@ const EndGame = ({ score, onGame }) => {
                 </div>
                 <div>
                     <div className="title">
-                        Wrong answer
+                        Respuestas Incorrectas
                     </div>
                     <div className="number">
                         {score.wrong}

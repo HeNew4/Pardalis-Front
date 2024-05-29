@@ -15,8 +15,8 @@ export default function Custom404() {
         animate={{ rotate: 720, scale: 1 }}
         transition={{
           type: "spring",
-          stiffness: 150,
-          damping: 20
+          stiffness: 120,
+          damping: 15
         }}>
           <Image
             src={logo}
