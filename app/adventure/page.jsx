@@ -7,24 +7,11 @@ import Link from "next/link";
 import _Skeleton from "./_Skeleton";
 
 export default function Page() {
-  const mundos = [
-    {
-      id: 1,
-      nombre: "calle",
-    },
-    {
-      id: 2,
-      nombre: "metro",
-    },
-    {
-      id: 3,
-      nombre: "mercado",
-    },
-    {
-      id: 4,
-      nombre: "¿Te crees bueno?",
-    },
-  ];
+
+    const [data, setData] = useState(null);
+    const [loading, setLoading] = useState(true);
+    const [selectedWorldImage, setSelectedWorldImage] = useState(null);
+    const [selectWorld, setSelectWorld] = useState(null);
 
     useEffect(() => {
         async function fetchData() {
@@ -71,6 +58,9 @@ export default function Page() {
                             {mundo.nombre}
                         </button>
                     ))}
+                    
+
+
                 </div>
 
                 <div>
