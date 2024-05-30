@@ -19,7 +19,8 @@ module.exports = {
       'primary': '#FFD400',
       'secundary': '#FFE14C',
       'background': '#FFFAE5',
-      'black': '#212121'
+      'black': '#212121',
+      'white': '#eeeeee'
     },
   },
   plugins: [],
