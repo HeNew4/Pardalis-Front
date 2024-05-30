@@ -343,8 +343,88 @@ export default function Page() {
                         Si usted y Pardalis no resuelven ninguna disputa mediante una negociación informal, cualquier otro esfuerzo para resolver la disputa se llevará a cabo exclusivamente mediante arbitraje vinculante como 
                         se describe en esta sección. Está renunciando al derecho de litigar (o participar como parte o miembro de la clase) todas las disputas en la corte ante un jue o jurado. La disputa se resolverá mediante 
                         arbitraje vinculante de acuerdo con las reglas de arbitraje comercial de la Asociación Americana de Arbitraje. Cualquiera de las partes puede buscar medidas cautelares provisionales o preliminares de 
-                        cualquier tribunal de jurisdicción competente, según sea necesario para proteger 
+                        cualquier tribunal de jurisdicción competente, según sea necesario para proteger los derechos o la propiedad de las partes en espera de la finalización del arbitraje. Todos y cada uno de los costos, 
+                        honorarios y gastos legales, contables y de otro tipo en los que incurra la parte ganadora correrán a cargo de la parte no ganadora.
                     </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Envíos y Privacidad</h2>
+                    <p className="m-3 mt-2">
+                        En el caos de que envíe o publique ideas, sugerencias creativas, diseños, fotografías, información, anuncios, datos o propuestas, incluidas ideas para productos, servicios, funciones, tecnologías o 
+                        promociones nuevos o mejorados, acepta expresamente que dichos envíos se realizarán automáticamente, será tratado como no confidencial y no propietario y se convertirá en propiedad exclusiva de Pardalis
+                        sin ningún tipo de compensación o crédito para usted. Pardalis y sus afiliados no tendrán obligaciones con respecto a dichos envíos o publicaciones y pueden usar las ideas contenidas en dichos envíos o
+                        publicaciones para cualquier propósito en cualquier medio a perpetuidad, incluyendo, pero no limitado a desarrollo, fabricación, y comercializar productos y servicios utilizando las ideas.
+                    </p>
+
+                    <br/>
+                    <br/>
+
+                    <h2 className=" text-4xl font-extrabold m-2">Promociones</h2>
+                    <p className="m-3 mt-2">
+                        Pardalis puede, de vez en cuando, incluir concursos, promociones, sorteos u otras actividades ("Promociones") que requieren que envíe material o información sobre usted. Tenga en cuenta que todas las 
+                        promociones pueden regirse por reglas independientes que pueden contener ciertos requisitos de elegibilidad, como restricciones de edad y ubicación geográfica. Usted es responsable de leer todas las 
+                        reglas de Promociones para determinar si es elegible para participar o no. Si participa en alguna Promoción, acepta cumplir con todas las reglas de promociones. Es posible que se apliquen términos y 
+                        condiciones adicionales a las compras de bienes o servicios a través de los Servicios, cuyos términos y condiciones forman parte de este Acuerdo mediante esta referencia.
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Erroes Tipográficos</h2>
+                    <p className="m-3 mt-2">
+                        En el caso de que un producto y / o servicio se enumere a un precio incorrecto o con información incorrecta debido a un error tipográfico, tendremos el derecho de rechazar o cancelar cualquier pedido, 
+                        ya sea que se haya confirmado o no y se haya cargado a su tarjeta de crédito. Si su tarjeta de crédito ya ha sido cargada por la compra y su pedido es cancelado, emitiremos inmediatamente un crédito 
+                        a su cuenta de tarjeta de crédito u otra cuenta de pago por el monto del cargo.
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Diverso</h2>
+                    <p className="m-3 mt-2">
+                        Si por alguna razón un tribunal de jurisdicción competente determina que alguna disposición o parte de estos Términos y condiciones no se puede hacer cumplir, el resto de estos Términos y condiciones 
+                        continuará en pleno vigor y efecto. Cualquier renuncia a cualquier disposición de estos Términos y condiciones será efectiva solo si está por escrito y firmada por un representante autorizado de Pardalis. 
+                        Pardalis tendrá derecho a una medida cautelar u otra compensación equitativa (sin la obligación de depositar ninguna fianza o garantía) en caso de incumplimiento anticipado por su parte. Pardalis opera y 
+                        controla el servicio Pardalis desde sus oficinas en México. El servicio no está destinado a ser distribuido ni utilizado por ninguna persona o entidad de ninguna jurisdicción o país donde dicha distribución 
+                        o uso sea contrario a la ley o regulación. En consecuencia, las personas que eligen acceder al Servicio Pardalis desde otras ubicaciones lo hacen por iniciativa propia y son únicas responsables del 
+                        cumplimiento de las leyes locales, en la medida en que las leyes locales sean aplicables. Estos Términos y condiciones (que incluyen e incorporan la Política de privacidad de Pardalis) contienen el 
+                        entendimiento completo y reemplazan todos los entendimientos previos eter usted y Pardalis con respecto a su tema, y usted no puede cambiarlos ni modificarlos. Los títulos de las secciones que se utilizan 
+                        en este Acuerdo son solo por la conveniencia y no se les dará ninguna importancia legal. 
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Descargo de Responsabilidad</h2>
+                    <p className="m-3 mt-2">
+                        Pardalis no es responsable de ningún contenido, código o cualquier otra imprecisión. Pardalis no ofrece garantías. En ningún caso será responsable de ningún daño especial, directo, indirecto, consecuente o 
+                        incidental o de cualquier daño, ya sea en una acción contractual, neglicencia u otro agravio, que surja de o en conexión con el uso del Servicio o el contenido del Servicio, se reserva el derecho de realizar 
+                        adiciones, eliminaciones o modificaciones al contenido del Servicio en cualquier momento sin previo aviso.
+                    </p>
+                    <p className="m-3 mt-2">
+                        El Servicio y su contenido se proporcionan "tal cual" y "Según esté disponible" sin ninguna garantía o representación de ningún tipo, ya sea expresa o implicíta. Es un distribuidor y no un editor del contenido 
+                        proporcionado por terceros; como tal, no ejerce ningún control editorial sobre dicho contenido y no ofrece ninguna garantía o representación en cuanto a la precisión, confiabilidad o vigencia de cualquier 
+                        información, contenido, servicio o mercancía proporcionada o accesible a través del Servicio. Sin limitar lo anterior, renuncia específicamente a todas las garantías y representaciones en cualquier contenido 
+                        transmitido en conexión con el Servicio o en sitios que pueden aparecer como enlaces en el Servicio, o en los productos como parte o en relación con el Servicio, incluidas, entre otras, las garantías de 
+                        comerciabilidad, idoneidad para un propósito particular o no infracción de derechos de terceros. Ningún consejo oral o información escrita proporcionada por o cualquiera de sus afiliados, empleados, funcionarios, 
+                        directores, agentes o similares creará una garantía. La información sobre precios y disponibilidad está sujeta a cambios sin previo aviso. Sin limitar lo anterior, no garantiza que el Servicio sea ininterrumpido, 
+                        sin corrupción, oportuno o sin errores.
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Contáctenos</h2>
+                    <p className="m-3 mt-2">
+                        No dude en contactarnos si tienen alguna pregunta.  
+                    </p>
+                    <ul className="m-3 mt-2 ml-10 list-disc">
+                        <li>
+                            A través de correo electrónico: contacto@pardalis.com
+                        </li>
+                    </ul>
                 </section>
             </main>
 
