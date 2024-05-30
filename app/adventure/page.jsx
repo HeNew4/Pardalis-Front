@@ -19,6 +19,10 @@ export default function Page() {
       id: 3,
       nombre: "mercado",
     },
+    {
+      id: 4,
+      nombre: "¿Te crees bueno?",
+    },
   ];
 
   const [idMundo, setIdMundo] = useState(1);
