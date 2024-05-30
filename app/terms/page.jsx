@@ -308,7 +308,38 @@ export default function Page() {
 
                     <h2 className=" text-4xl font-extrabold m-2">Propiedad intelectual</h2>
                     <p className="m-3 mt-2">
-                        
+                        La plataforma y todo su contenido, características y funcionalidad (que incluyen, entre otros, toda la información, software, texto, pantallas, imágenes, video y audio, y el diseño, selección y disposición 
+                        de los mismos), son propiedad de Pardalis, sus licenciantes u otros proveedores de dicho material y están protegidos por México y leyes internacionales de derechos de autor, marcas registradas, patentes, 
+                        secretos comerciales y otras leyes de propiedad intelectual o derechos de propiedad. El material no puede ser copiado, modificado, reproducido, descargado o distribuido de ninguna manera, en su totalidad 
+                        o en parte, sin el permiso previo expreso por escrito de Pardalis, a menos que y excepto que se indique expresamente en estos Términos y Condiciones. Se prohíbe cualquier uso no autorizado del material.
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Acuerdo de Arbitraje</h2>
+                    <p className="m-3 mt-2">
+                        Esta sección se aplica a cualquier disputa, EXCEPTO QUE NO INCLUYE UNA DISPUTA RELACIONADA CON RECLAMOS POR RECURSOS INJUNTIVOS O EQUITATIVOS CON RESPECTO A LA EJECUCIÓN O VALIDEZ DE SUS DERECHOS DE 
+                        PROPIEDAD INTELECTUAL O DE Pardalis. El término "disputa" significa cualquier disputa, acción u otra controversia entre usted y Pardalis en relación con los Servicios o este acuerdo, ya sea en contrato, 
+                        garantía, agravio, estatuto, regulación, ordenanza o cualquier orta base legal o equitativa. "Disputa" tendrá el significado más amplio posible permitido por la ley.
+                    </p>
+
+                    <br/>
+                    <br/>
+
+                    <h2 className=" text-4xl font-extrabold m-2">Aviso de Disputa</h2>
+                    <p className="m-3 mt-2">
+                        En el caso de una disputa, usted o Pardalis deben darle al otro un Aviso de Disputa, que es una declaración escrita que establece el nombre, la dirección y la información de contacto de la parte que 
+                        la proporcionó los hechos que dieron lugar a la disputa y la reparación solicitada. Debe enviar cualquier Aviso de disputa por correo electrónico a: contacto@pardalis.com. Pardalis le enviará cualquier 
+                        Aviso de disputa por correo a su dirección si la tenemos, o de otra manera a su dirección de correo electrónico. Usted y Pardalis intentarán resolver cualquier disputa mediante una negociación informal 
+                        dentro de los sesenta(60) días a partir de la fecha en que se reciba el Aviso de disputa. Después de sesenta (60) días, usted o Pardalis pueden comenzar el arbitraje.
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Arbitraje Obligatorio</h2>
+                    <p className="m-3 mt-2">
                     </p>
                 </section>
             </main>
