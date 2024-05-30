@@ -206,6 +206,79 @@ export default function Page() {
                     <br />
                     
                     <h2 className=" text-4xl font-extrabold m-2">Indemnización</h2>
+                    <p className="m-3 mt-2">
+                        Usted acepta indemnizar y eximir de responsabilidad a Pardalis y a sus empresas matrices, subsidiarias, afiliadas, funcionarios, empleados, agentes, socios y otorgantes de licencias (si corresponde)
+                         de cualquier reclamo o demanda, incluidos los honorarios razonables de abogados, debido a que surja de su: (a) uso de la plataforma; (b) violación de este Acuerdo o cualquier ley o reglamento; o 
+                         (c) violación de cualquier derecho de un tercero.
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Sin garantías</h2>
+                    <p className="m-3 mt-2">
+                        La platadorma se le proporcial "TAL CUAL" y "SEGÚN DISPONIBILIDAD" y con todas las fallas y defectos sin garantía de ningún tipo. En la medida máxima permitida por la ley aplicable, Pardalis, 
+                        en su propio nombre y en nombre de sus afiliados y sus respectivos licenciantes y proveedores de servicios, renuncia expresamente a todas las garantías, ya sean expresas, implícitas, legales 
+                        o de otro tipo, con respecto a la plataforma, incluidas todas las garantías implícitas de comerciabilidad, idoneidad para un propósito particular, título y no infracción, y garantías que 
+                        puedan surgir del curso del trato, el curso del desempeño, el uso o la práctica comercial. Sin limitación a lo anterior, Pardalis no ofrece garantía ni compromiso, y no hace ninguna representación 
+                        de ningún tipo tipo de que la plataforma cumplirá con sus requisitos, logrará los resultados previstos, será compatible o funcionará con cualquier otro software, sitio web, sistemas o servicios, 
+                        operen sin interrupciones, cumplan con los estándares de reindimiento o confiabilidad o que no tengan errores o que cualquier error o defecto puede o será corregido.
+                    </p>
+                    <p className="m-3 mt-2">
+                        Sin limitar o anterior, ni Pardalis ni ningún proveedor de Pardalis hace ninguna representación o garantía de ningún tipo, expresa o implícita: (i) en cuanto al funcionamiento o disponibilidad de 
+                        la plataforma, o la información, contenido y materiales o productos incluidos en el mismo; (ii) que la plataforma será interrumpida o libre de errores; (iii) en cuanto a la precisión, confiabilidad 
+                        o vigencia de cualquier información o contenido proporcionado a través de la plataforma; o (iv) que la plataforma, sus servidores, el contenido o los correos electrónicos enviados desde o en nombre 
+                        de Pardalis están libres de virus, scripts, troyanos, gusanos, malware, bombas de tiempo u otros componentes nocivos. Algunas jurisdicciones no permiten la exclusión o las limitaciones de las garantías 
+                        implícitas o las limitaciones de los derechos legales aplicables de un consumidor, por lo que algunas o todas las exclusiones y limitaciones anteriores pueden no aplicarse en su caso.
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Limitación de Responsabilidad</h2>
+                    <p className="m-3 mt-2">
+                        Sin perjuicio de los daños en los que pueda incurrir, la responsabilidad total de Pardalis y cualquiera de sus proveedores en virtud de cualquier disposición de este Acuerdo y su recurso exclusivo 
+                        por todo lo anterior se limitará al monto realmente pagado por usted para la plataforma. En la máxima medida permitida por la ley aplicable, en ningún caso Pardalis o sus proveedores serán 
+                        responsables de ningún daño especial, incidental, indirecto o consecuente de ningún tipo (incluidos, entre todos, daños por lucro cesante, por pérdida de datos u otra información, por 
+                        interrupción del negocio, por lesiones personales, por la pérdida de privacidad que surja de alguna manera relacionada con el uso o la imposibilidad de usar la plataforma, software de terceros 
+                        y / o - hardware de terceros utilizado con la plataforma, o de otro modo en relación con cualquier disposición de este Acuerdo), incluso si Pardalis o cualquier proveedor ha sido informado de la 
+                        posibilidad de tales daños e incluso si el recurso no cumple con su propósito esencial. Algunos estados /bjurisdicciones no permiten la exclusión o limitación de daños incidentales o consecuentes, 
+                        por lo que es posible que la limitación o exclusión anterior no se aplique en su caso. 
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Divisibilidad</h2>
+                    <p className="m-3 mt-2">
+                        Si alguna disposición de este Acuerdo se considera inaplicable o inválida, dicha disposición se cambiará e interpretará para lograr los objetivos de dicha disposiciónen la mayor medida posible según 
+                        la ley aplicable y las disposiciones restantes continuarán en preno vigor y efecto. Este Acuerdo, junto con la Política de privacidad y cualquier otro aviso legal publicado por Pardalis en los 
+                        Servicios, constituirá el acuerdo completo entre usted y Pardalis con respecto a los Servicios. Si alguna disposición de este Acuerdo es considerada inválida por un tribunal de jurisdicción competente, 
+                        la invalidez de dicha disposición no afectará la validez de las disposiciones restantes de este Acuerdo, que permanecerán en pleno vigor y efecto. Ninguna renuncia a cualquier término de este Acuerdo 
+                        se considerará una renuncia adioconal o continua de dicho término o cualquier otro término, y el hecho de que no haga valer ningún derecho o disposición en virtud de este Acuerdo no constituirá una 
+                        renuncia a dicho derecho. O provisión. USTED Y ACEPTAN QUE CUALQUIER CAUSA DE ACCIÓN QUE SURJA O ESTÉ RELACIONADA CON LOS SERVICIOS DEBE COMENZAR DENTRO DE (1) AÑO DESPUÉS DE QUE LA CAUSA DE ACCIÓN SE 
+                        ACUERDA. DE LO CONTRARIO, DICHA CAUSA DE ACCIÓN ESTÁ PERMANENTEMENTE PROHIBIDA.
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Renuncia</h2>
+                    <p className="m-3 mt-2">
+                        Salvo lo dispuesto en el presente, el hecho de no ejercer un derecho o exigir el cumplimiento de una obligación en virtud de este Acuerdo no afectará la capacidad de una de las partes para ejercer 
+                        dicho derecho o requerir dicho cumplimiento en cualquier momento posterior, ni constituirá la renuncia a una infracción, cualquier incumplimiento posterior.
+                    </p>
+                    <p className="m-3 mt-2">
+                        Ninguna falla en el ejercicio, ni demora en el ejercicio, por parte de cualquiera de las partes, de cualquier derecho o poder bajo este Acuerdo operará como una renuncia a ese derecho o poder. El 
+                        ejercicio único o parcial de cualquier derecho o poder en virtud de este Acuerdo tampoco impedirá el ejercicio posterior de ese o cualquier otro derecho otorgado en este documento. En caso de 
+                        conflicto entre este Acuerdo y cualquier compra u otros términos aplicables. regirán los términos de este Acuerdo.
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Enmiendas a este Acuerdo</h2>
+
                 </section>
             </main>
 
