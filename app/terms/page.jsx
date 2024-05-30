@@ -372,7 +372,7 @@ export default function Page() {
                     <br />
                     <br />
 
-                    <h2 className=" text-4xl font-extrabold m-2">Erroes Tipográficos</h2>
+                    <h2 className=" text-4xl font-extrabold m-2">Errores Tipográficos</h2>
                     <p className="m-3 mt-2">
                         En el caso de que un producto y / o servicio se enumere a un precio incorrecto o con información incorrecta debido a un error tipográfico, tendremos el derecho de rechazar o cancelar cualquier pedido, 
                         ya sea que se haya confirmado o no y se haya cargado a su tarjeta de crédito. Si su tarjeta de crédito ya ha sido cargada por la compra y su pedido es cancelado, emitiremos inmediatamente un crédito 
