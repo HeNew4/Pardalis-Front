@@ -278,7 +278,38 @@ export default function Page() {
                     <br />
 
                     <h2 className=" text-4xl font-extrabold m-2">Enmiendas a este Acuerdo</h2>
+                    <p className="m-3 mt-2">
+                        Pardalis se reserva el derecho, a su entera discreción, de modificar o reemplazar este Acuerdo en cualquier momento. Si una revisión es importante, proporcionaremos un aviso de al menos 30 días 
+                        antes de que entren en vigencia los nuevos términso. Lo que constituye un cambio material se determinará a nuestro exclusivo criterio. Si continúa accediendo o utilizando nuestra plataforma 
+                        después de que las revisiones entren en vigencia, usted acepta estar sujeto a los términos revisados. Si no está de acuerdo con los nuevos términos, ya no está autorizado para usar Pardalis.
+                    </p>
 
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Acuerdo completo</h2>
+                    <p className="m-3 mt-2">
+                        El Acuerdo constituye el acuerdo completo entre usted y Pardalis con respecto a su uso de la plataforma y reemplaza todos los acuerdos escritos u orales anteriores y contemporáneos entre usted y Pardalis.
+                        Es posible que esté sujeto a términos y condiciones adicionales que se aplican cuando usa o compra otros servicios de Pardalis, que Pardalis le proporcionará en el momento de dicho uso o compra. 
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Actualizaciones de nuestros Términos</h2>
+                    <p className="m-3 mt-2">
+                        Podemos cambiar nuestro Servicio y nuestras políticas, y es posible que debamos realizar cambios en estos Términos para que reflejen con precisión nuestro Servicio y nuestras políticas. A menos que la 
+                        ley exija lo contrario, le notificaremos (por ejemplo, a través de nuestro Servicio) antes de realizar cambios en estos Términos y le daremos la oportunidad de revisarlos antes de que entren en vigencia.
+                         Luego, si continúa utilizando el Servicio, estará sujeto a los Términos actualizados. Si no desea aceptar estos o alguno de los Términos actualizados. Puede eliminar su cuenta.
+                    </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Propiedad intelectual</h2>
+                    <p className="m-3 mt-2">
+                        
+                    </p>
                 </section>
             </main>
 
