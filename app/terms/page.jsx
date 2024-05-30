@@ -186,8 +186,26 @@ export default function Page() {
                     <p className="m-3 mt-2">
                         Este Acuerdo permanecerá en vigor hasta que usted o Pardalis lo rescindan. Pardalis puede, a su entera discreción, en cualquier momento y por cualquier motivo o sin él, 
                         suspender o rescindir este Acuerdo con o sin previo aviso. Este Acuerdo terminará inmediatamente, sin previo aviso de Pardalis, en caso de que no cumpla con alguna de las disposiciones de este Acuerdo. 
-                        Tambén puede rescindir este Acuerdo eliminando su cuenta de la plataforma
+                        Tambén puede rescindir este Acuerdo eliminando su cuenta de la plataforma y todas las copias de la misma en su computadora. Tras la rescisión de este Acuerdo no limitará ninguno de  los derechos o recursos 
+                        de Pardalis por ley o equidad en caso de incumplimiento por su parte (durante la vigencia de este Acuerdo) de cualquiera de sus oblicaciones en virtud del presente Acuerdo. 
                     </p>
+
+                    <br />
+                    <br />
+
+                    <h2 className=" text-4xl font-extrabold m-2">Aviso de infracción de Derechos de Autor</h2>
+                    <p className="m-3 mt-2">
+                        Si usted es propietario de los derechos de auito o el agente de dicho propietario y cree que cualquier materal de nuestra plataforma constituye una infracción de sus derechos de autor, 
+                        comuníquese con nostros y proporcione la siguiente información:(a) una firma física o eletrónica del propietario de los derechos de autor o una persona autorizada para actuar en su nombre; 
+                        (b) identificación del material que se alega infringe; (c) si información de contacto, incluida su dirección, número de teléfono y un correo electrónico; (d) una declaración suya de que 
+                        cree de buena fe que el uso del material no está atuorizado por los propietarios de los derechos de autor; y (e) la declaración de que la información en la notificación es precisa y, bajo 
+                        pena de perjurio, usted está autorizado a actuar en nombre del propietario.
+                    </p>
+
+                    <br />
+                    <br />
+                    
+                    <h2 className=" text-4xl font-extrabold m-2">Indemnización</h2>
                 </section>
             </main>
 
