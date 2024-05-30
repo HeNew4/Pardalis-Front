@@ -1,5 +1,10 @@
+"use client";
+
 import { useEffect, useState } from "react";
-// ... (otros imports)
+import NavBar from "../_components/NavBar";
+import Image from "next/image";
+import Link from "next/link";
+import _Skeleton from "./_Skeleton";
 
 export default function Page() {
     const [data, setData] = useState(null);
@@ -9,7 +14,21 @@ export default function Page() {
 
     useEffect(() => {
         async function fetchData() {
-            // ... (fetch data)
+            try {
+                const res = await fetch(process.env.APIurl + "mundo");
+
+                if (!res.ok) {
+                    throw new Error("Error al traer los datos");
+                }
+
+                const result = await res.json();
+                setData(result);
+                setSelectWorld(result[0]);
+            } catch (error) {
+                console.log(error);
+            } finally {
+                setLoading(false);
+            }
         }
 
         fetchData();
@@ -44,11 +63,12 @@ export default function Page() {
                     {selectedWorldImage && (
                         <Link href={"/adventure/world/" + selectWorld.id}>
                             <Image
-                                src={selectedWorldImage}
-                                alt={selectWorld.descripcion}
+                                src={`${selectedWorldImage}?${Date.now()}`}
+                                alt={selectWorld?.descripcion}
                                 width={500}
                                 height={500}
                                 className="rounded-xl"
+                                unoptimized
                             />
                         </Link>
                     )}
