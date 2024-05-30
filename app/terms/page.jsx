@@ -340,6 +340,10 @@ export default function Page() {
 
                     <h2 className=" text-4xl font-extrabold m-2">Arbitraje Obligatorio</h2>
                     <p className="m-3 mt-2">
+                        Si usted y Pardalis no resuelven ninguna disputa mediante una negociación informal, cualquier otro esfuerzo para resolver la disputa se llevará a cabo exclusivamente mediante arbitraje vinculante como 
+                        se describe en esta sección. Está renunciando al derecho de litigar (o participar como parte o miembro de la clase) todas las disputas en la corte ante un jue o jurado. La disputa se resolverá mediante 
+                        arbitraje vinculante de acuerdo con las reglas de arbitraje comercial de la Asociación Americana de Arbitraje. Cualquiera de las partes puede buscar medidas cautelares provisionales o preliminares de 
+                        cualquier tribunal de jurisdicción competente, según sea necesario para proteger 
                     </p>
                 </section>
             </main>
