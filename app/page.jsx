@@ -7,7 +7,7 @@ import Footer from "./_components/Footer";
 import Image from "next/image";
 import Link from "next/link";
 
-import '@/app/globals.css'
+import '@/app/globals.css';
 
 export default function Home() {
   return (
