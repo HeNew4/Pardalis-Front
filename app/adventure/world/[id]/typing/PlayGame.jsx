@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 const PlayGame = ({ onGame, onChangeScore }) => {
-    const [defaultData] = useState('Poncho se fue a caminar, pero un dictamen adelante de el se iba a encontrar. Corrio para lograr escapar, pero una inscripcion a creditos lo iba a detener. Salir de Batiz debia de hacer, pero un examen de matematicas lo iba a detener');
+    const [defaultData] = useState('In the tianguis, there are colorful stalls. Vendors sell fruits like mangoes, papayas, and bananas. You can hear the sounds of people bargaining for the best price. There are toys, clothes, and even shoes for sale.');
     const [dataTyping, setDataTyping] = useState([]);
     const [textTyping, setTextTyping] = useState({
         value: '',
