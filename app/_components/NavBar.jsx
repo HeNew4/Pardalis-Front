@@ -84,7 +84,7 @@ export default function NavBar() {
                         </li>
                         <li>
                             <Link
-                                href='#'
+                                href='/profile'
                                 className='block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-primary md:p-0  md:dark:hover:text-primary dark:hover:bg-gray-700'
                             >
                                 Perfil
