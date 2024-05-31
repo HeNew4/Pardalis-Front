@@ -44,8 +44,8 @@ export default function Home() {
             </Link>
             <p className="mb-5">¿Todavía no tienes una cuenta?</p>
 
-            <div className='cristal rounded-xl w-9/12 p-4 m-auto'>
-              <Link href='/register' className="text-4xl font-black text-primary">Regístrate</Link>
+            <div className='rounded-xl w-9/12 p-4 m-auto'>
+              <Link href='/register' className="text-4xl font-black text-primary hover:underline">Regístrate</Link>
             </div>
           </div>
         </div>
