@@ -58,11 +58,9 @@ export default function Page() {
                         </button>
                     ))}
 
-                    <Link href='/adventure/world/0/typing'>
-                        <button className='grid place-content-center focus:outline-none text:dark bg-primary hover:bg-secundary focus:ring-4 focus:ring-secundary font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-primary m-3 w-9/12 mb-10 border-dashed border-2 border-black'>
+                        <button  onClick={() => ()} className='grid place-content-center focus:outline-none text:dark bg-primary hover:bg-secundary focus:ring-4 focus:ring-secundary font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-primary m-3 w-9/12 mb-10 border-dashed border-2 border-black'>
                             ¿Te crees bueno?
                         </button>
-                    </Link>
                 </div>
 
                 <div>
