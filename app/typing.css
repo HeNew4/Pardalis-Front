@@ -14,7 +14,7 @@
 
 .home {
     opacity: 0;
-    animation: showHome 2s .3s ease-in-out 1 forwards;
+    animation: showHome 1.5s 0.1s ease-in-out 1 forwards;
 }
 
 @keyframes showHome {
