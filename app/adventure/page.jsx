@@ -3,14 +3,19 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import { Howl } from "howler";
 import NavBar from "../_components/NavBar";
 import _Skeleton from "./_Skeleton";
+
+const soundSrc = "/sound/click.mp3";
+let sound;
 
 export default function Page() {
     const [data, setData] = useState(null);
     const [loading, setLoading] = useState(true);
     const [selectedWorldImage, setSelectedWorldImage] = useState(null);
     const [selectWorld, setSelectWorld] = useState(null);
+
 
     useEffect(() => {
         async function fetchData() {
@@ -35,6 +40,19 @@ export default function Page() {
     }, []);
 
     useEffect(() => {
+        // Crear una instancia de Howl cuando el componente se monta
+        sound = new Howl({
+            src: [soundSrc],
+            volume: 0.5,
+        });
+    }, []);
+
+    const playSound = () => {
+        // Reproducir el sonido al presionar el botón
+        sound.play();
+    };
+
+    useEffect(() => {
         if (selectWorld) {
             setSelectedWorldImage(selectWorld.imagen);
         }
@@ -52,7 +70,10 @@ export default function Page() {
                             <button
                                 key={index}
                                 className="focus:outline-none text:dark bg-primary hover:bg-secundary focus:ring-4 focus:ring-secundary font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-primary m-3 w-9/12 mb-10 border-dashed border-2 border-black"
-                                onClick={() => setSelectWorld(mundo)}
+                                onClick={() => {
+                                    setSelectWorld(mundo);
+                                    playSound();
+                                }}
                             >
                                 {mundo.nombre}
                             </button>

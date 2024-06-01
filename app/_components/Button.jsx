@@ -14,7 +14,7 @@ export default function Button(props) {
     // Crear una instancia de Howl cuando el componente se monta
     sound = new Howl({
       src: [soundSrc],
-      volume: 1.0
+      volume: 0.5
     });
   }, []);
 
