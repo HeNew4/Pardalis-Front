@@ -1,13 +1,13 @@
-"use client";
+'use client';
 
-import Image from "next/image";
-import Link from "next/link";
-import { useEffect, useState } from "react";
-import { Howl } from "howler";
-import NavBar from "../_components/NavBar";
-import _Skeleton from "./_Skeleton";
+import Image from 'next/image';
+import Link from 'next/link';
+import { useEffect, useState } from 'react';
+import { Howl } from 'howler';
+import NavBar from '../_components/NavBar';
+import _Skeleton from './_Skeleton';
 
-const soundSrc = "/sound/click.mp3";
+const soundSrc = '/sound/click.mp3';
 let sound;
 
 export default function Page() {
@@ -16,14 +16,13 @@ export default function Page() {
     const [selectedWorldImage, setSelectedWorldImage] = useState(null);
     const [selectWorld, setSelectWorld] = useState(null);
 
-
     useEffect(() => {
         async function fetchData() {
             try {
-                const res = await fetch(process.env.APIurl + "mundo");
+                const res = await fetch(process.env.APIurl + 'mundo');
 
                 if (!res.ok) {
-                    throw new Error("Error al traer los datos");
+                    throw new Error('Error al traer los datos');
                 }
 
                 const result = await res.json();
@@ -61,15 +60,15 @@ export default function Page() {
     if (loading) return <_Skeleton />;
 
     return (
-        <div className="flex flex-col fondo">
+        <div className='flex flex-col fondo'>
             <NavBar />
-            <div className="min-h-full flex align-middle justify-center m-auto">
-                <main className="grid place-content-center grid-cols-2 p-6 bg-background rounded-3xl hover:bg-background dark:bg-background m-4 ">
-                    <div className="grid grid-cols-1">
+            <div className='min-h-full flex align-middle justify-center m-auto'>
+                <main className='grid place-content-center grid-cols-2 p-6 bg-background rounded-3xl hover:bg-background dark:bg-background m-4 '>
+                    <div className='grid grid-cols-1'>
                         {data.map((mundo, index) => (
                             <button
                                 key={index}
-                                className="focus:outline-none text:dark bg-primary hover:bg-secundary focus:ring-4 focus:ring-secundary font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-primary m-3 w-9/12 mb-10 border-dashed border-2 border-black"
+                                className='focus:outline-none text:dark bg-primary hover:bg-secundary focus:ring-4 focus:ring-secundary font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-primary m-3 w-9/12 mb-10 border-dashed border-2 border-black'
                                 onClick={() => {
                                     setSelectWorld(mundo);
                                     playSound();
@@ -82,13 +81,13 @@ export default function Page() {
                         <button
                             onClick={() =>
                                 setSelectWorld({
-                                    nombre: "Juego",
-                                    imagen: "/img/extra/importante.jfif",
-                                    descripcion: "¿Que paso master?",
-                                    id: "0/typing",
+                                    nombre: 'Juego',
+                                    imagen: '/img/extra/importante.jfif',
+                                    descripcion: '¿Que paso master?',
+                                    id: '0/typing',
                                 })
                             }
-                            className="grid place-content-center focus:outline-none text:dark bg-primary hover:bg-secundary focus:ring-4 focus:ring-secundary font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-primary m-3 w-9/12 mb-10 border-dashed border-2 border-black"
+                            className='grid place-content-center focus:outline-none text:dark bg-primary hover:bg-secundary focus:ring-4 focus:ring-secundary font-medium rounded-lg text-sm px-5 py-2.5 me-2 dark:focus:ring-primary m-3 w-9/12 mb-10 border-dashed border-2 border-black'
                         >
                             ¿Te crees bueno?
                         </button>
@@ -96,13 +95,13 @@ export default function Page() {
 
                     <div>
                         {selectedWorldImage && (
-                            <Link href={"/adventure/world/" + selectWorld.id}>
+                            <Link href={'/adventure/world/' + selectWorld.id}>
                                 <Image
                                     src={`${selectedWorldImage}?${Date.now()}`}
                                     alt={selectWorld?.descripcion}
                                     width={500}
                                     height={500}
-                                    className="h-auto max-w-lg rounded-lg"
+                                    className='h-auto max-w-lg rounded-lg'
                                     unoptimized
                                 />
                             </Link>
