@@ -45,7 +45,7 @@ export default function Page() {
     return (
         <div className="flex flex-col fondo">
             <NavBar />
-            <div className="min-h-full flex align-middle justify-center">
+            <div className="min-h-full flex align-middle justify-center m-auto">
                 <main className="grid place-content-center grid-cols-2 p-6 bg-background rounded-lg hover:bg-background dark:bg-background m-4 ">
                     <div className="grid grid-cols-1">
                         {data.map((mundo, index) => (
