@@ -20,7 +20,9 @@ module.exports = {
       'secundary': '#FFE14C',
       'background': '#FFFAE5',
       'black': '#212121',
-      'white': '#eeeeee'
+      'white': '#eeeeee',
+      'gray': '#c4c4c4 ',
+      'red': 'red'
     },
   },
   plugins: [],
