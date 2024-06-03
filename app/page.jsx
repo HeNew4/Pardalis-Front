@@ -2,10 +2,10 @@
 
 import { motion } from 'framer-motion';
 
-import NavBar from './_components/NavBar';
-import Footer from './_components/Footer';
 import Image from 'next/image';
 import Link from 'next/link';
+import Footer from './_components/Footer';
+import NavBar from './_components/NavBar';
 
 import '@/app/globals.css';
 import Button from './_components/Button';
