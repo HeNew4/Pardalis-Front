@@ -12,6 +12,7 @@
     "framer-motion": "^11.2.4",
     "howler": "^2.2.4",
     "next": "14.2.3",
+    "pocketbase": "^0.21.3",
     "react": "^18",
     "react-dom": "^18"
   },
