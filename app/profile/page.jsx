@@ -1,6 +1,7 @@
-const { default: LayoutMain } = require("../_components/layoutMain");
+import withAuth from '@/lib/withAuth';
+import LayoutMain from '../_components/layoutMain';
 
-const Page = ({}) => {
+function Page() {
     return (
         <LayoutMain>
             <div className="w-full max-w-sm min-w-60 p-5 bg-white border border-gray rounded-lg shadow">
@@ -26,6 +27,6 @@ const Page = ({}) => {
             </div>
         </LayoutMain>
     );
-};
+}
 
-export default Page;
+export default withAuth(Page);
