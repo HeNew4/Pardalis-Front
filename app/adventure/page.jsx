@@ -11,8 +11,19 @@ const soundSrc = '/sound/click.mp3';
 let sound;
 
 export default function Page() {
-    const [data, setData] = useState(null);
-    const [loading, setLoading] = useState(true);
+    const [data, setData] = useState([
+        {
+            nombre: 'metro',
+            descripcion: 'El metro de la CDMX',
+            imagen: 'img/ecenarios/Metro-1.svg',
+        },
+        {
+            nombre: 'metro',
+            descripcion: 'El metro de la CDMX',
+            imagen: 'img/ecenarios/Metro-1.svg',
+        },
+    ]);
+    const [loading, setLoading] = useState(false);
     const [selectedWorldImage, setSelectedWorldImage] = useState(null);
     const [selectWorld, setSelectWorld] = useState(null);
 
@@ -26,14 +37,29 @@ export default function Page() {
                 }
 
                 const result = await res.json();
-                setData(result);
-                setSelectWorld(result[0]);
+                //setData(result);
+                setSelectWorld(data[0]);
             } catch (error) {
                 console.log(error);
             } finally {
                 setLoading(false);
             }
         }
+
+        setData([
+            {
+                id: 1,
+                nombre: 'metro',
+                descripcion: 'El metro de la CDMX',
+                imagen: 'img/ecenarios/Metro-1.svg',
+            },
+            {
+                id: 2,
+                nombre: 'tiaguis',
+                descripcion: 'El tienguis de la CDMX',
+                imagen: 'img/ecenarios/tiaguis.jpeg',
+            },
+        ]);
 
         fetchData();
     }, []);
@@ -82,7 +108,7 @@ export default function Page() {
                             onClick={() =>
                                 setSelectWorld({
                                     nombre: 'Juego',
-                                    imagen: '/img/extra/importante.jfif',
+                                    imagen: '/img/ecenarios/reglas.jpeg',
                                     descripcion: '¿Que paso master?',
                                     id: '0/typing',
                                 })
