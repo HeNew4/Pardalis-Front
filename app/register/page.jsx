@@ -1,5 +1,5 @@
 'use client';
-import { registerUser } from '@/lib/auth';
+import { registerUser } from '@/app/_api/auth';
 import { useState } from 'react';
 import Button from '../_components/Button';
 

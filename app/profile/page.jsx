@@ -1,4 +1,4 @@
-import withAuth from '@/lib/withAuth';
+import withAuth from '@/app/_api/withAuth';
 import LayoutMain from '../_components/layoutMain';
 
 function Page() {

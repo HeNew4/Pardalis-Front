@@ -1,7 +1,7 @@
 'use client'
 import { useState } from 'react';
 import Button from '../_components/Button';
-import { loginUser } from '@/lib/auth';
+import { loginUser } from '@/app/_api/auth';
 
 export default function page() {
     const [apodo, setapodo] = useState('');
