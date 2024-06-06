@@ -6,25 +6,14 @@ import { useEffect, useState } from 'react';
 import { Howl } from 'howler';
 import NavBar from '../_components/NavBar';
 import _Skeleton from './_Skeleton';
+import _data from '../_data';
 
 const soundSrc = '/sound/click.mp3';
 let sound;
 
 export default function Page() {
-    const [data, setData] = useState([
-        {
-            id: 1,
-            nombre: 'metro',
-            descripcion: 'El metro de la CDMX',
-            imagen: 'img/ecenarios/Metro-1.svg',
-        },
-        {
-            id: 2,
-            nombre: 'tiaguis',
-            descripcion: 'El tienguis de la CDMX',
-            imagen: 'img/ecenarios/tiaguis.jpeg',
-        },
-    ]);
+    const [data, setData] = useState(_data);
+
     const [loading, setLoading] = useState(false);
     const [selectedWorldImage, setSelectedWorldImage] = useState(null);
     const [selectWorld, setSelectWorld] = useState(null);
@@ -47,21 +36,6 @@ export default function Page() {
                 setLoading(false);
             }
         }
-
-        setData([
-            {
-                id: 1,
-                nombre: 'metro',
-                descripcion: 'El metro de la CDMX',
-                imagen: 'img/ecenarios/Metro-1.svg',
-            },
-            {
-                id: 2,
-                nombre: 'tiaguis',
-                descripcion: 'El tienguis de la CDMX',
-                imagen: 'img/ecenarios/tiaguis.jpeg',
-            },
-        ]);
 
         fetchData();
     }, []);

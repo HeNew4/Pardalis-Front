@@ -29,7 +29,7 @@ export default function Home() {
                         }}
                         whileTap={{ rotate: 720, scale: 2.5 }}
                     >
-                        <Img
+                        <Image
                             src='logo.svg'
                             alt='Logo Pardalis'
                             width={300}
