@@ -20,9 +20,8 @@ export default function Footer() {
       </div>
       <div className='w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between'>
         <Link href="https://www.instagram.com/popeyedbisaac/" className='hover:underline'>contacto@pardalis.com</Link>
-        <Link href="https://www.instagram.com/hntmclv/" className='hover:underline'>@Pardalis</Link>
-        <Link href="https://www.instagram.com/alonso_vazsil/" className='hover:underline'>@Pardalis</Link>
-        <Link href="https://www.instagram.com/oscxr_vlxxm/" className='hover:underline'>@Pardalis</Link>
+        <Link href="https://www.instagram.com/hntmclv/" className='hover:underline'><img />@Pardalis</Link>
+        <Link href="https://www.instagram.com/alonso_vazsil/" className='hover:underline'><img />@Pardalis</Link>
       </div>
     </footer>
 
