@@ -9,6 +9,8 @@ import Link from 'next/link';
 
 import '@/app/globals.css';
 import Button from './_components/Button';
+import  Img from './_components/Img';
+
 
 export default function Home() {
     return (
@@ -27,7 +29,7 @@ export default function Home() {
                         }}
                         whileTap={{ rotate: 720, scale: 2.5 }}
                     >
-                        <Image
+                        <Img
                             src='logo.svg'
                             alt='Logo Pardalis'
                             width={300}
