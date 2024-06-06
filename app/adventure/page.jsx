@@ -13,14 +13,16 @@ let sound;
 export default function Page() {
     const [data, setData] = useState([
         {
+            id: 1,
             nombre: 'metro',
             descripcion: 'El metro de la CDMX',
             imagen: 'img/ecenarios/Metro-1.svg',
         },
         {
-            nombre: 'metro',
-            descripcion: 'El metro de la CDMX',
-            imagen: 'img/ecenarios/Metro-1.svg',
+            id: 2,
+            nombre: 'tiaguis',
+            descripcion: 'El tienguis de la CDMX',
+            imagen: 'img/ecenarios/tiaguis.jpeg',
         },
     ]);
     const [loading, setLoading] = useState(false);
