@@ -106,3 +106,15 @@
 .endGame .result .number {
     font-size: 50px;
 }
+.playing .inputForm #cosa {
+    width: 100%;
+    padding: 20px 0;
+    outline: none;
+    text-align: center;
+    font-size: x-large;
+    letter-spacing: 5px;
+    background-color: #0005;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+}

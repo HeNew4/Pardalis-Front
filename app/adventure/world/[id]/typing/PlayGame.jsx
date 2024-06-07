@@ -63,6 +63,11 @@ const PlayGame = ({ onGame, onChangeScore }) => {
                         </li>
                     )
                 }
+                <div className="inputForm">
+                    <p id="cosa">
+                        sdvsbsfb
+                    </p>
+                </div>
             </ul>
             <div className="inputForm">
                 <input type="text" autoFocus value={textTyping.value} onChange={handleChangeTyping} />
