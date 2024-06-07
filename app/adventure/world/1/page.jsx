@@ -159,7 +159,7 @@ export function lights(props) {
   return { playsound };
 }
 
-export default function Page({ params }) {
+export default function Page({}) {
   const { playsound } = lights();
   const {playsound2} = sb_m();
   const {playsound3} = sb_s();
@@ -183,8 +183,8 @@ export default function Page({ params }) {
       <main className='grid place-content-center p-6 bg-background rounded-lg hover:bg-background dark:bg-background m-4 '>
         <section>
           <Image
-            src={data[params.id - 1].src}
-            alt={'mapa del mundo ' + params.id}
+            src={data[0].src}
+            alt={'mapa del mundo ' + 0}
             width={1200}
             height={663}
             useMap='#Map'
