@@ -1,12 +1,10 @@
 'use client';
 
-import Image from 'next/image';
 import NavBar from '@/app/_components/NavBar';
-import metroImg from '../../../../public/img/ecenarios/Metro-1.svg';
-import tiaguisImg from '../../../../public/img/ecenarios/tiaguis.jpeg';
+import Image from 'next/image';
 
-import { useState } from 'react';
 import _data from '@/app/_data';
+import { useState } from 'react';
 
 export default function Page({ params }) {
     const [data, setData] = useState(_data);
