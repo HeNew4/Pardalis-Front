@@ -3,8 +3,11 @@
 import NavBar from '@/app/_components/NavBar';
 import Image from 'next/image';
 
+import { Howl } from 'howler';
 import _data from '@/app/_data';
 import { useState } from 'react';
+
+const soundSrc = '/sound/'
 
 export default function Page({ params }) {
   const [data, setData] = useState(_data);
@@ -42,7 +45,7 @@ export default function Page({ params }) {
               shape='poly'
               coords='632,299,604,300,605,429,633,435'
               href='#'
-              onClick={() => handlerAreaClick('area dos')}
+              onClick={() => handlerAreaClick('Lights')}
             />
           <map name='Map' id='Map'>
             <area
