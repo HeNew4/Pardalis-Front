@@ -1,14 +1,8 @@
-import { useState } from 'react';
+'use client'
 import Button from '../_components/Button';
 import NotLogin from '../_components/NotLogin';
 
 export default function page() {
-
-    const [login, setLogin] = useState(false);
-
-    if(!login) {
-        return <NotLogin />
-    }
 
     return (
         <div className='config h-screen grid place-content-center'>
