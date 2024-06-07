@@ -13,7 +13,7 @@ export default function Page({ params }) {
   const [data, setData] = useState(_data);
 
   const handlerAreaClick = (area) => {
-    alert(`Cliqueaste en esta area${area}`);
+    alert(`${area}`);
   };
 
   return (
