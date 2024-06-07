@@ -58,7 +58,7 @@ body {
     display: grid;
     place-content: center;
 }
-
-#Map {
-    
+.image-container .overlay{
+width: 1200px;
+height: 663px;
 }
