@@ -13,6 +13,31 @@ const soundSrc2 = '/sound/inplace/taquilla/sb_m.mp3';
 const soundSrc3 = '/sound/inplace/taquilla/sb_s.mp3';
 const soundSrc4 = '/sound/inplace/taquilla/taq.mp3';
 const soundSrc5 = '/sound/inplace/taquilla/st.mp3';
+const soundSrc6 = '/sound/inplace/taquilla/sin.mp3';
+
+export function sin(props) {
+  const [sound6, setSound] = useState(null);
+
+  useEffect(() => {
+    const newSound = new Howl({
+      src: [soundSrc6],
+      volume: 0.5
+    });
+    setSound(newSound);
+
+    return () => {
+      newSound.unload();
+    };
+  }, []);
+
+  const playsound6 = () => {
+    if (sound6) {
+      sound6.play();
+    }
+  };
+
+  return { playsound6 };
+}
 
 export function st(props) {
   const [sound5, setSound] = useState(null);
@@ -140,6 +165,7 @@ export default function Page({ params }) {
   const {playsound3} = sb_s();
   const {playsound4} = taq();
   const {playsound5} = st();
+  const {playsound6} = sin();
 
 
 
@@ -235,7 +261,7 @@ export default function Page({ params }) {
             />
             <area
               shape='poly'
-              coords='856,333,856,438,1304,438,1304,430,1296,430,1296,423,1288,423,1288,416,1279,414,1279,407,1269,407,1269,398,1258,398,1258,389,1216,388,1217,381,1209,380,1209,373,1197,373,1197,365,1188,364,1188,356,1176,356,1176,347,1169,347,1169,339,1159,338,1160,330,1150,330,1150,321,1139,320,1139,313,1129,312,1129,304'
+              coords='882,380,882,430,1011,430,1011,422,1005,422,1006,415,997,415,997,409,990,408,990,401,982,401,982,393,974,393,974,386,945,385,945,380,939,380,939,373,930,373,930,366,922,366,922,359,914,359,914,351,906,351,906,345,899,345,899,337,891,337,891,330'
               href='#'
               onClick={() => {handlerAreaClick('escaleras de derecha');
               playsound5();
@@ -243,7 +269,8 @@ export default function Page({ params }) {
             />
             <area
               shape='poly'
-              coords=''
+              coords='355,310,355,408,198,408,200,403,200,400,207,400,207,396,207,393,217,393,217,389,216,386,225,386,225,379,225,379,232,379,232,375,232,369,241,369,241,367,241,363,281,363,281,359,288,359,288,355,288,353,297,353,296,347,296,345,303,345,303,340,303,338,311,338,311,329,318,328,318,322,326,322,326,317,334,317,334,309,342,309,342,310
+              '
               href='#'
               onClick={() => {handlerAreaClick('escaleras de izquierda');
               playsound5();
@@ -251,16 +278,18 @@ export default function Page({ params }) {
             />
             <area
               shape='poly'
-              coords='785,326,845,328,845,419,786,421'
+              coords='36,322,35,295,210,316,210,331'
               href='#'
-              onClick={() => {handlerAreaClick('señalizacion izquierda')
+              onClick={() => {handlerAreaClick('señalizacion izquierda');
+              playsound6();
             }}
             />
             <area
               shape='poly'
-              coords=''
+              coords='1028,313,1028,333,1144,327,1144,302'
               href='#'
-              onClick={() => {handlerAreaClick('señalizacion derecha')
+              onClick={() => {handlerAreaClick('señalizacion derecha');
+              playsound6();
             }}
             />
           </map>
