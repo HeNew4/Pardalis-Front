@@ -22,14 +22,10 @@ export default function Page({ params }) {
           <Image
             src={data[params.id - 1].src}
             alt={'mapa del mundo ' + params.id}
-            width={500}
-            height={500}
-            unoptimized
+            width={1200}
+            height={731}
             useMap='#Map'
-            className='h-screen w-screen rounded-sm'
           />
-
-          <map name='Map' id='Map'>
             <area
               shape='poly'
               coords='1023,267,1184,254,1183,602,1023,554'
@@ -48,9 +44,10 @@ export default function Page({ params }) {
               href='#'
               onClick={() => handlerAreaClick('area dos')}
             />
+          <map name='Map' id='Map'>
             <area
               shape='poly'
-              coords='536,409,548,409,548,307,536,307'
+              coords='502,156,678,158,673,185,522,182'
               href='#'
               onClick={() => handlerAreaClick('area tres')}
             />
