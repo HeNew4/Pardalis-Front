@@ -94,7 +94,7 @@ const Page = () => {
             </button>
           </div>
 
-          <div>
+          <div className='m-auto'>
             {selectedWorldImage && (
               <Link href={'/adventure/world/' + selectWorld.id}>
                 <Image
