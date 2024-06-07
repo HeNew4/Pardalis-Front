@@ -64,9 +64,7 @@ const PlayGame = ({ onGame, onChangeScore }) => {
                     )
                 }
                 <div className="inputForm">
-                    <p id="cosa">
-                        sdvsbsfb
-                    </p>
+
                 </div>
             </ul>
             <div className="inputForm">
