@@ -7,7 +7,7 @@ import { Howl } from 'howler';
 import _data from '@/app/_data';
 import { useState } from 'react';
 
-const soundSrc = '/sound/'
+const soundSrc = '/sound/inplace/taquilla/lights.mp3'
 
 export default function Page({ params }) {
   const [data, setData] = useState(_data);
