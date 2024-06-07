@@ -2,14 +2,39 @@
 
 import NavBar from '@/app/_components/NavBar';
 import Image from 'next/image';
-
 import { Howl } from 'howler';
 import _data from '@/app/_data';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
-const soundSrc = '/sound/inplace/taquilla/lights.mp3'
+const soundSrc = '/sound/inplace/taquilla/lights.mp3';
+
+export function sb_m(props) {
+  const [sound, setSound] = useState(null);
+
+  useEffect(() => {
+    const newSound = new Howl({
+      src: [soundSrc],
+      volume: 0.5
+    });
+    setSound(newSound);
+
+    return () => {
+      newSound.unload();
+    };
+  }, []);
+
+  const playsound = () => {
+    if (sound) {
+      sound.play();
+    }
+  };
+
+  return { playsound };
+}
 
 export default function Page({ params }) {
+  const { playsound } = sb_m();
+
   const [data, setData] = useState(_data);
 
   const handlerAreaClick = (area) => {
@@ -29,6 +54,7 @@ export default function Page({ params }) {
             height={731}
             useMap='#Map'
           />
+          <map name='Map' id='Map'>
             <area
               shape='poly'
               coords='1023,267,1184,254,1183,602,1023,554'
@@ -39,20 +65,25 @@ export default function Page({ params }) {
               shape='poly'
               coords='790,485,735,468,736,289,791,287'
               href='#'
-              onClick={() => handlerAreaClick('area uno')}
+              onClick={() => handlerAreaClick('area dos')}
             />
             <area
               shape='poly'
               coords='632,299,604,300,605,429,633,435'
               href='#'
-              onClick={() => handlerAreaClick('Lights')}
+              onClick={() => {
+                handlerAreaClick('Lights');
+                playsound();
+              }}
             />
-          <map name='Map' id='Map'>
             <area
               shape='poly'
               coords='502,156,678,158,673,185,522,182'
               href='#'
-              onClick={() => handlerAreaClick('area tres')}
+              onClick={() => {
+                handlerAreaClick('area tres');
+                playsound();
+              }}
             />
             <area
               shape='poly'
