@@ -119,6 +119,7 @@ const PlayGame = ({ onGame, onChangeScore }) => {
                 <div className='inputForm'>
                     {index.map((word, index) => (
                         <li
+                            id='cosa'
                             key={index}
                             className={
                                 word.status === true
