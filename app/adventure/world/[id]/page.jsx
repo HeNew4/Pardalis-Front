@@ -57,7 +57,7 @@ export default function Page({ params }) {
           <map name='Map' id='Map'>
             <area
               shape='poly'
-              coords='1023,267,1184,254,1183,602,1023,554'
+              coords='502,156,678,158,673,185,522,182'
               href='#'
               onClick={() => handlerAreaClick('luz central')}
             />
@@ -78,11 +78,10 @@ export default function Page({ params }) {
             />
             <area
               shape='poly'
-              coords='502,156,678,158,673,185,522,182'
+              coords='590,485,735,468,736,289,791,22'
               href='#'
               onClick={() => {
                 handlerAreaClick('luces izquierdistas');
-                playsound();
               }}
             />
             <area
