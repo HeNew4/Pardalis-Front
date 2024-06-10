@@ -1,7 +1,57 @@
 import Link from 'next/link'
 import React from 'react'
 
+const soundSrc = '/sound/inplace/botones/terms.mp3';
+const soundSrc2 = '/sound/inplace/botones/about.mp3';
+
+export function about(props) {
+  const [sound, setSound] = useState(null);
+
+  useEffect(() => {
+    const newSound = new Howl({
+      src: [soundSrc2],
+      volume: 0.5
+    });
+    setSound(newSound);
+
+    return () => {
+      newSound.unload();
+    };
+  }, []);
+
+  const playsound2 = () => {
+    if (sound) {
+      sound.play();
+    }
+  };
+   return { playsound2 };
+  }
+export function terms(props) {
+    const [sound, setSound] = useState(null);
+  
+    useEffect(() => {
+      const newSound = new Howl({
+        src: [soundSrc],
+        volume: 0.5
+      });
+      setSound(newSound);
+  
+      return () => {
+        newSound.unload();
+      };
+    }, []);
+  
+    const playsound = () => {
+      if (sound) {
+        sound.play();
+      }
+    };
+     return { playsound };
+    }
+
 export default function Footer() {
+  const {playsound} = terms();
+  const {playsound2} = about();
   return (
 
 
@@ -11,10 +61,10 @@ export default function Footer() {
         </span>
         <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
           <li>
-            <Link href="/about" className="hover:underline me-4 md:me-6">Sobre Nosotros</Link>
+            <Link href="/about" className="hover:underline me-4 md:me-6" onClick={playsound2}>Sobre Nosotros</Link>
           </li>
           <li>
-            <Link href="/terms" className="hover:underline me-4 md:me-6">Términos y condiciones</Link>
+            <Link href="/terms" className="hover:underline me-4 md:me-6" onClick={playsound}>Términos y condiciones</Link>
           </li>
         </ul>
       </div>
