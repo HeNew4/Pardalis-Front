@@ -11,8 +11,8 @@ import '@/app/globals.css';
 import Button from './_components/Button';
 import  Img from './_components/Img';
 
-
 export default function Home() {
+    
     return (
         <div className='min-h-screen flex flex-col fondo'>
             <NavBar />
