@@ -11,6 +11,29 @@ import _data from '../_data';
 const soundSrc = '/sound/click.mp3';
 let sound;
 
+export function about(props) {
+  const [sound, setSound] = useState(null);
+
+  useEffect(() => {
+    const newSound = new Howl({
+      src: [soundSrc2],
+      volume: 0.5
+    });
+    setSound(newSound);
+
+    return () => {
+      newSound.unload();
+    };
+  }, []);
+
+  const playsound2 = () => {
+    if (sound) {
+      sound.play();
+    }
+  };
+   return { playsound2 };
+  }
+
 const Page = () => {
   const [data] = useState(_data);
 
