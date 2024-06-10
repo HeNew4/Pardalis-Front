@@ -1,5 +1,10 @@
+'use client';
+
 import Link from 'next/link'
 import React from 'react'
+import { Howl } from 'howler';
+import { useEffect, useState } from 'react';
+
 
 const soundSrc = '/sound/inplace/botones/terms.mp3';
 const soundSrc2 = '/sound/inplace/botones/about.mp3';
