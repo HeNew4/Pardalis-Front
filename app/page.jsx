@@ -6,41 +6,13 @@ import NavBar from './_components/NavBar';
 import Footer from './_components/Footer';
 import Image from 'next/image';
 import Link from 'next/link';
-import { useEffect, useState } from 'react';
-import { Howl } from 'howler';
-
 
 import '@/app/globals.css';
 import Button from './_components/Button';
 import  Img from './_components/Img';
 
-const soundSrc2 = '/sound/inplace/botones/logo.mp3';
-
-export function logo(props) {
-    const [sound, setSound] = useState(null);
-  
-    useEffect(() => {
-      const newSound = new Howl({
-        src: [soundSrc2],
-        volume: 0.5
-      });
-      setSound(newSound);
-  
-      return () => {
-        newSound.unload();
-      };
-    }, []);
-  
-    const playsound2 = () => {
-      if (sound) {
-        sound.play();
-      }
-    };
-     return { playsound2 };
-    }
 export default function Home() {
-    const {playsound2} = logo();
-
+    
     return (
         <div className='min-h-screen flex flex-col fondo'>
             <NavBar />
