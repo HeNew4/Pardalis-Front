@@ -55,14 +55,14 @@ export default function Home() {
                             stiffness: 150,
                             damping: 20,
                         }}
-                        whileTap={{ rotate: 720, scale: 2.5 }}
+                        whileTap={{ rotate: 720, scale: 2.5, playsound2 }
+                    }
                     >
                         <Image
                             src='logo.svg'
                             alt='Logo Pardalis'
                             width={300}
                             height={300}
-                            onClick={playsound2}
                         />
                     </motion.div>
                 </div>
@@ -75,7 +75,7 @@ export default function Home() {
 
                         <br />
                         <Link href='/login' className='mb-10'>
-                            <Button title='Inicia Sesión' />
+                            <Button title='Inicia Sesión'/>
 
                             <br />
                         </Link>
