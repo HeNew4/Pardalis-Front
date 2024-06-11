@@ -27,7 +27,7 @@ export default function Home() {
                             stiffness: 150,
                             damping: 20,
                         }}
-                        whileTap={{ rotate: 720, scale: 2.5, playsound2 }
+                        whileTap={{ rotate: 720, scale: 2.5 }
                     }
                     >
                         <Image
