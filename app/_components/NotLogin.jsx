@@ -38,7 +38,7 @@ export default function NotLogin() {
                 scale: 1.1,
                 rotate: 5
                 }}>
-                  Inicia Sesion 
+                  Regresar al inicio 
             </motion.button>
           </Link>
         </main>

@@ -18,6 +18,26 @@ const Page = () => {
   const [selectedWorldImage, setSelectedWorldImage] = useState(null);
   const [selectWorld, setSelectWorld] = useState(null);
 
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const res = await fetch(process.env.APIurl + 'mundo');
+
+        if (!res.ok) {
+          throw new Error('Error al traer los datos');
+        }
+
+        // setData(result);
+        setSelectWorld(data[0]);
+      } catch (error) {
+        console.log(error);
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    fetchData();
+  }, []);
 
   useEffect(() => {
     // Crear una instancia de Howl cuando el componente se monta
