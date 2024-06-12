@@ -170,9 +170,6 @@ export default function Page({}) {
   const {playsound5} = st();
   const {playsound6} = sin();
 
-
-
-
   const [data, setData] = useState(_data);
 
   const handlerAreaClick = (area) => {
